@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(66, 63, 63);
+    color: black
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    width: '960px'
+    font-size: '18px'
+}
+div {
+    width: 300px;
+    border: 15px solid rgb(240, 243, 240);
+    padding: 50px;
+    margin: 20px;
+  }
